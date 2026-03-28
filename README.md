@@ -160,4 +160,4 @@ ensemble tree methods consistently outperform neural networks:
 
 ## License
 
-[MIT](LICENSE) © 2026
+MIT © [denyskotcode](https://github.com/denyskotcode) — see [LICENSE](LICENSE) for details.
